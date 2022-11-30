@@ -10,7 +10,7 @@ Me llamo Evelyn Rivero, tengo 23 años. Soy una persona emprendedora, que adora 
 Estudios
 Secundario completo 
 Universidad Tecnológica Nacional
-DiplomaturaGestión de empresas/organizaciones sin ánimo de lucro/entidades públicas
+Diplomatura en Gestión de empresas/organizaciones sin ánimo de lucro/entidades públicas
 2020 - 2021
 
 Asignaturas Cursadas:
@@ -20,13 +20,11 @@ Asignaturas Cursadas:
 *Hiegiene y Seguridad
 *Legislacion
 
-Universidad Tecnológica NacionalGráfico Universidad Tecnológica Nacional
 Universidad Tecnológica Nacional
-DiplomaturaLogisticaEn curso
+Diplomatura LogisticaEn curso
 2022 - actualidad
 
-Curso 
-Ingles
+Cursos: Ingles
 Excel intermedio
 Programacion Basica
 
